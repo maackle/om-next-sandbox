@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.170
+{:name om-sandbox.cards.index, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {om-sandbox.cards.awkay om-sandbox.cards.awkay}, :imports nil}
